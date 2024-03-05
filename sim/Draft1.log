@@ -1,0 +1,21 @@
+Circuit: * D:\Dropbox\Projects\calcpsu\cptipb1a\sim\Draft1.asc
+
+.OP point found by inspection.
+
+Date: Tue Feb 20 20:03:59 2024
+Total elapsed time: 0.098 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3781
+traniter = 3781
+tranpoints = 1150
+accept = 1102
+rejected = 48
+matrix size = 18
+fillins = 14
+solver = Normal
+Matrix Compiler1: 2.19 KB object code size  0.7/0.5/[0.3]
+Matrix Compiler2: 1.84 KB object code size  0.3/0.6/[0.2]
+
