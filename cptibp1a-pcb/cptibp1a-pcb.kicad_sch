@@ -3146,7 +3146,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 145.415 86.995 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 59a939d5-70e1-4283-877b-65283d2ea8f8)
     (property "Reference" "R5" (at 147.955 85.725 0)
       (effects (font (size 1.27 1.27)) (justify right))
